@@ -20,7 +20,7 @@ school community or a party game your friends yell at each other over. As AI
 gets better at everything, I think human creativity matters more than ever, and
 I'd like to help make tech fun again.
 
-## ✦ Choose a path
+## ✦ Focus
 
 <table>
 <tr>
@@ -45,14 +45,14 @@ Local multiplayer, physics-driven chaos, and games best played on one couch.
 </tr>
 </table>
 
-## ✦ Where I've been
+## ✦ Places
 
 ```text
 2026  Gosoft (Thailand)        full-stack intern: PDM database for 7-Eleven TH
 2026  AUT, New Zealand         exchange semester: all A-range grades
 2024  PolyU, Hong Kong         BSc Computer Science (2024–2028): tuition scholarship
 2024  VISTEC, Thailand         research intern @ BRAIN Laboratory, School of Information Science and Technology
-2021  KVIS, Thailand           STEM high school: full scholarship
+2021  KVIS, Thailand           STEM high school (2021-2024): full scholarship
 ```
 
 ## ✦ Toolkit
