@@ -63,4 +63,4 @@ Local multiplayer, physics-driven chaos, and games best played on one couch.
 
 <sub>also: C · SQL · PL/SQL · Lua · TanStack Query · SQLModel · AWS S3 · Gemini API · Oracle APEX · CoppeliaSim · SolidWorks · Arduino</sub>
 
-<p align="center"><i>open to full-stack and game dev internships, so say hi!</i></p>
+<p align="center"><i>open to full-stack and game dev internships or project collaborations, so say hi!</i></p>
