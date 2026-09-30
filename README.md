@@ -1,4 +1,4 @@
-<h1 align="center">Chompoo here ✦</h1>
+<h1 align="center">It's Chompoo ♡</h1>
 
 <p align="center">
   <b>Chayada Pakpoomkamonlert</b><br>
@@ -20,7 +20,7 @@ school community or a party game your friends yell at each other over. As AI
 gets better at everything, I think human creativity matters more than ever, and
 I'd like to help make tech fun again.
 
-## 🎮 Choose a path
+## ✦ Choose a path
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ Local multiplayer, physics-driven chaos, and games best played on one couch.
 </tr>
 </table>
 
-## 📍 Where I've been
+## ✦ Where I've been
 
 ```text
 2026  Gosoft (Thailand)        full-stack intern: PDM database for 7-Eleven TH
@@ -55,7 +55,7 @@ Local multiplayer, physics-driven chaos, and games best played on one couch.
 2021  KVIS, Thailand           STEM high school: full scholarship
 ```
 
-## 🧰 Toolkit
+## ✦ Toolkit
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,ts,js,react,nextjs,tailwind,fastapi,postgres,redis,docker,git,vercel,unity,godot&perline=9" alt="skills">
